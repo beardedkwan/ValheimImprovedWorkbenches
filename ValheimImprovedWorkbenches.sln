@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValheimImprovedWorkbenches", "ValheimImprovedWorkbenches\ValheimImprovedWorkbenches.csproj", "{CAE8ECFB-785D-48C8-9B54-2E510626D0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE8ECFB-785D-48C8-9B54-2E510626D0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE8ECFB-785D-48C8-9B54-2E510626D0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE8ECFB-785D-48C8-9B54-2E510626D0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE8ECFB-785D-48C8-9B54-2E510626D0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C64971-BAA2-41C1-8997-8F53E192F74F}
+	EndGlobalSection
+EndGlobal
